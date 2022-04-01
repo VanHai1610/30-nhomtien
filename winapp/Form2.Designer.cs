@@ -43,14 +43,14 @@
             "hex",
             "octal",
             "dec"});
-            this.comboBox1.Location = new System.Drawing.Point(47, 147);
+            this.comboBox1.Location = new System.Drawing.Point(47, 337);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(151, 28);
             this.comboBox1.TabIndex = 0;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(47, 82);
+            this.textBox1.Location = new System.Drawing.Point(59, 195);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(125, 27);
             this.textBox1.TabIndex = 1;
